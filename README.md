@@ -42,17 +42,14 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This interactiv
 
 ```
 tic-tac-toe/
-├── index.html          # Main HTML file
+├── game.html          # Main HTML file
 ├── gamestyle.css       # Styling for the game
 ├── app.js             # Game logic and functionality
 ├── README.md          # This file
-├── demo/              # Demo videos and GIFs
-│   └── gameplay-demo.gif
 ├── images/            # Screenshots and images
-│   ├── game-interface.png
+│   ├── images/Game_Interface.png
 │   ├── winner-screen.png
-│   ├── draw-screen.png
-│   └── mobile-view.png
+│   └── images/gamedraw.png
 ```
 
 ## How to Play

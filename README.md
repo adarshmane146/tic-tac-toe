@@ -54,7 +54,7 @@ tic-tac-toe/
 
 ## How to Play
 
-1. Open `index.html` in a web browser
+1. Open `game.html` in a web browser
 2. Click on any empty square to place your mark
 3. Players automatically alternate between 'O' and 'X'
 4. The game will announce the winner or declare a draw
@@ -99,7 +99,7 @@ This game works in all modern web browsers including:
 
 1. Download or clone the project files
 2. Ensure all files are in the proper directory structure
-3. Open `index.html` in your web browser
+3. Open `game.html` in your web browser
 4. Start playing!
 
 ### For Contributors
@@ -115,7 +115,7 @@ If you're contributing screenshots or demo videos:
 - **Format**: PNG or JPG
 - **Size**: Recommended 1200x800px for desktop views
 - **Mobile**: 400x800px for mobile screenshots
-- **Quality**: High resolution, clear text visibility
+- **Quality**: High resolution, clear text visibgility
 
 ### Demo Videos
 - **Format**: GIF (for README) or MP4 (for external hosting)
